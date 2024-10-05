@@ -33,6 +33,7 @@ Dữ liệu được xây dựng tham khảo dựa trên các nguồn từ đi�
 - Từ điển Hán Việt, Trần Văn Chánh, NXB Trẻ, TP Hồ Chí Minh, 1999.
 - Hán Việt tân từ điển, Nguyễn Quốc Hùng, NXB Khai Trí, Sài Gòn, 1975.
 - Hán Việt tự điển, Thiều Chửu, Hà Nội, 1942.
+- [Từ điển CC-CEDICT](https://www.mdbg.net/chinese/dictionary?page=cc-cedict)
 
 ## API liên quan:
 - npm package: https://github.com/ph0ngp/hanviet-pinyin-words
