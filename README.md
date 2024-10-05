@@ -12,7 +12,7 @@ Dữ liệu chỉ hỗ trợ các chữ Hán phồn thể, không hỗ trợ gi�
 
 ## Cấu trúc danh sách:
 
-Danh sách được viết dưới dạng file `.csv`, gồm 3 cột: `char`, `hanviet`, `pinyin`.
+Danh sách nằm trong file [hanviet.csv](./hanviet.csv), được viết dưới dạng file `.csv`, gồm 3 cột: `char`, `hanviet`, `pinyin`.
 
 - `char`: chữ Hán phồn thể.
 - `hanviet`: âm Hán Việt tương ứng với chữ đó và pinyin trong dòng đó.
@@ -21,6 +21,8 @@ Danh sách được viết dưới dạng file `.csv`, gồm 3 cột: `char`, `h
 ## Đóng góp
 
 Dữ liệu do cá nhân mình thu thập và phân loại dựa trên nhiều nguồn khác nhau, không tránh khỏi thiếu sót, rất mong các bạn đóng góp bằng cách mở issue hoặc pull request cho repo này.
+
+Trong repo có file [main.py](./main.py) để trợ giúp bạn sửa dữ liệu, lưu lại, xuất dữ liệu,... một cách an toàn. Ví dụ cách sử dụng mời xem ở trong file đó.
 
 ## Tham khảo
 
