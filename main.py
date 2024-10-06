@@ -91,7 +91,7 @@ def prepare_hanviet_json_str(df):
             hanviet_data[row['char']] = {}
         
         hanviet_data[row['char']][row['pinyin']] = row['hanviet']
-    json_str = json.dumps(hanviet_data, indent=0, ensure_ascii=False)
+    json_str = json.dumps(hanviet_data, separators=(',', ':'), ensure_ascii=False)
     return json_str
 
 def export_to_js(path='../hanviet-pinyin-words/src/hanvietData.js'):
