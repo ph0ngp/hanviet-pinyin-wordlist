@@ -5842,6 +5842,7 @@ char,hanviet,pinyin
 牙,['nha'],*
 牚,['sanh'],*
 牛,['ngưu'],*
+牜,['ngưu'],*
 牡,['mẫu'],*
 牣,['nhận'],*
 牧,['mục'],*
@@ -7032,6 +7033,7 @@ char,hanviet,pinyin
 翾,['huyên'],*
 耀,['diệu'],*
 老,['lão'],*
+耂,['lão'],*
 考,['khảo'],*
 耄,['mạo'],*
 者,['giả'],*
@@ -7859,6 +7861,7 @@ char,hanviet,pinyin
 襻,['phán'],*
 襼,['nghệ'],*
 襾,['á'],*
+覀,['á'],*
 覂,['phủng'],*
 覈,['hạch'],*
 規,['quy'],*
@@ -8429,6 +8432,7 @@ char,hanviet,pinyin
 邋,['lạp'],*
 邏,['la'],*
 邑,['ấp'],*
+⻏,['ấp'],*
 邕,['ung'],*
 邗,['hàn'],*
 邘,['vu'],*
@@ -8842,6 +8846,7 @@ char,hanviet,pinyin
 闤,['hoàn'],*
 闥,['thát'],*
 阜,['phụ'],*
+阝,['phụ'],*
 阞,['lặc'],*
 阡,['thiên'],*
 阪,['phản'],*
@@ -10500,6 +10505,7 @@ char,hanviet,pinyin
 礜,['dự'],yu4
 礧,['lôi'],lei4
 示,['thị'],shi4
+礻,['thị'],shi4
 祁,['kỳ'],qi2
 祆,['hiên'],xian1
 祈,['kỳ'],qi2
